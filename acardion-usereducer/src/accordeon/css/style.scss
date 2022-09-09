@@ -1,0 +1,26 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  input {
+    padding: 2px 5px;
+    color: black;
+  }
+  textarea {
+    margin: 10px 0;
+  }
+}
+
+.oneAcc {
+  width: 200px;
+}
+
+.content {
+  background-color: gray;
+  color: white;
+  padding: 10px;
+}
